@@ -1,0 +1,7 @@
+{
+  "utterance": "protocol",
+  "intent_type": "OmegaIntent",
+  "intent": {
+    "Omega": "omega"
+  }
+}

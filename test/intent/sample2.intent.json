@@ -1,0 +1,7 @@
+{
+  "utterance": "protocol",
+  "intent_type": "GammaIntent",
+  "intent": {
+    "Gamma": "gamma"
+  }
+}
